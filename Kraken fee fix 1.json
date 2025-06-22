@@ -1,0 +1,10 @@
+{
+  "exchange": "Exchange",
+  "pair": "Trading pair",
+  "size": "Order size",
+  "calculate": "Calculate fee",
+  "result": "Your fees (demo)",
+  "market": "Market order",
+  "limit": "Limit (maker)",
+  "footer": "Demo \u2014 replace with live data"
+}
